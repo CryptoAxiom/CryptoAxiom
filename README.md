@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <a href="https://www.n8x.io">
         <img src="N8X_logo.png" alt="N8X Logo" width="200">
     </a>
@@ -14,4 +14,4 @@
 ### 🔗 Connect with Me
 - 🌐 **Website:** [N8X](https://www.n8x.io)
 - 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/cdavanderwoude/)
-- 🐦 **Twitter/X:** [@YourHandle](https://x.com/cryptoaxiom)
+- 🐦 **Twitter/X:** [@CryptoAxiom](https://x.com/cryptoaxiom)
