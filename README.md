@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+    <a href="https://www.n8x.io">
+        <img src="N8X_logo.png" alt="N8X Logo" width="200">
+    </a>
+</div>
 
-<!--
-**CryptoAxiom/CryptoAxiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+👋 Hey there! I'm **Daniel**, founder of **N8X**, where we explore the intersection of AI, data, and the unknown. Passionate about building intelligent, scalable solutions from the ground up.
 
-Here are some ideas to get you started:
+💡 Interested in **AI, ML, and data-driven products**  
+🌍 Working remotely from **Montenegro and the Netherlands**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔗 Connect with Me
+- 🌐 **Website:** [N8X](https://www.n8x.io)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/cdavanderwoude/)
+- 🐦 **Twitter/X:** [@YourHandle](https://x.com/cryptoaxiom)
