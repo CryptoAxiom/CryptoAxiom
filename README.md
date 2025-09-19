@@ -5,9 +5,7 @@
 </div>
 
 ## 
-Working as an independant product consultant. Using my expertise to help companies ride the wave of generative AI. 
-
-Available for roles as freelance product manager, head of product and fractional product roles. 
+Using my expertise to help companies ride the wave of generative AI. 
 
 **Machine Learning, Large Language Models and building data-driven products** 
 
